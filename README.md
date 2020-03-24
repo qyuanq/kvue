@@ -30,8 +30,7 @@
 
 - 订阅者 watcher 和页面data中的key存在挂钩关系
 
-  
-
+![image](https://github.com/qyuanq/kvue/blob/master/dep.jpg)
 #### 编译:
 
 

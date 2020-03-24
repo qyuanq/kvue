@@ -35,4 +35,4 @@
 
 
 
-![image-20200324134122017](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20200324134122017.png)
+![image](https://github.com/qyuanq/kvue/blob/master/compile.jpg)
